@@ -1,12 +1,40 @@
-# React + Vite
+🍽️ Fully Working Food Ordering App – React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A responsive and animated restaurant UI built with **ReactJS**, featuring:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Clean Menu & Cart UI  
+✅ Smooth Add/Remove Functionality  
+✅ Simple Yet Modern Animations  
+✅ Fresh-looking Color Palette  
+✅ Code structure designed by a beginner – polished to look professional
 
-## Expanding the ESLint configuration
+<img width="1919" height="931" alt="UI" src="https://github.com/user-attachments/assets/c9473f9e-f475-46b6-99ed-94a364c9ab6f" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+🚀 Features
+
+- 🧾 Add to Cart / Remove from Cart functionality
+- ⚡ Smooth transitions & hover animations
+- 🎨 Fresh and aesthetic UI design
+- 📱 Fully responsive (works on mobile/tablets/desktops)
+- ✨ Built with fresh & readable code (ideal for beginner portfolios)
+
+
+
+🛠️ Tech Stack
+
+- ReactJS
+- HTML & CSS (modular)
+- Vite (for fast development)
+- Modern ES6+ JavaScript
+
+
+
+🔧 Installation & Setup
+
+git clone https://github.com/your-username/restaurant-app-react.git
+cd restaurant-app-react
+npm install
+npm run dev
